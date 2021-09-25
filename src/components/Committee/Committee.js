@@ -12,7 +12,7 @@ const Committee = () => {
 
         <div className="committee mt-5">
             <div className="investor-container">
-                <div className="investors">
+                <div className="investors mb-3">
                     {
                         investors.map(investor => <Investor investors={investor}></Investor>)
                     }

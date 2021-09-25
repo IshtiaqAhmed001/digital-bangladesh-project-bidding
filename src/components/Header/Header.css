@@ -1,5 +1,9 @@
 .header-container{
     text-align: center;
     background-color: rgb(201, 236, 250);
+    width: 1200px;
+    margin: auto;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
    
 }

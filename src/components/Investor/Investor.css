@@ -5,6 +5,15 @@
     padding: 10px;
 }
 .investor-img{
-    width: 25%;
+    width: 150px;
     border-radius: 50%;
+}
+.add-investor-btn{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: skyblue;
+}
+
+.investor-details h5{
+    line-height: 2em;
 }
