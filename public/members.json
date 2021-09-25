@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bill gates",
+        "age": 65,
+        "networth": 3000,
+        "country": "USA",
+        "company": "Microsoft"
+    },
+    {
+        "name": "Jeff bezos",
+        "age": 57,
+        "networth": 5000,
+        "country": "USA",
+        "company": "Amazon"
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "age": 36,
+        "networth": 2500,
+        "country": "USA",
+        "company": "Facebook"
+    },
+    {
+        "name": "Warren Buffet",
+        "age": 90,
+        "networth": 2000,
+        "country": "USA",
+        "company": "Berkshire hathaway"
+    },
+    {
+        "name": "Elon Musk",
+        "age": 49,
+        "networth": 4000,
+        "country": "USA",
+        "company": "Tesla,Spacex"
+    },
+    {
+        "name": "Larry Page",
+        "age": 48,
+        "networth": 1500,
+        "country": "USA",
+        "company": "Google"
+    }
+]
