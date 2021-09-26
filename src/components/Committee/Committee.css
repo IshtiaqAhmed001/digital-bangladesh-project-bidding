@@ -1,21 +1,20 @@
-.committee{
-    display: grid;
-    grid-template-columns: 3fr 1fr;
-    grid-column-gap: 20px;
-    
-}
 .investors{
     display: grid;
     grid-template-columns: repeat(3,1fr);
     grid-row-gap: 20px;
     grid-column-gap: 20px;
+    width: 75%;
+    margin: auto;
 }
 .investor-container{
     margin-left: 20px;
 }
 .selected-investors{
+    width: 75%;
     background-color:rgb(196, 238, 196);
     padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
     border-radius: 10px;
     height: 150px;
 }

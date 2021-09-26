@@ -24,6 +24,9 @@ const Committee = () => {
 
         <div className="committee mt-5">
             <div className="investor-container">
+                <div className="selected-investors">
+                    <Fund fund={fund}></Fund>
+                </div>
                 <div className="investors mb-3">
                     {
                         investors.map(investor => <Investor
@@ -34,9 +37,7 @@ const Committee = () => {
                 </div>
 
             </div>
-            <div className="selected-investors">
-                <Fund fund={fund}></Fund>
-            </div>
+
 
         </div>
     );
