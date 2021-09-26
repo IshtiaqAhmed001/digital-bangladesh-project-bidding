@@ -1,7 +1,6 @@
 .investor{
-    background-color: slategray;
+    background-color: rgb(181, 226, 247);
     border-radius: 10px;
-    border: 1px solid gray;
     padding: 10px;
 }
 .investor-img{
@@ -11,7 +10,7 @@
 .add-investor-btn{
     padding: 10px;
     border-radius: 10px;
-    background-color: skyblue;
+   
 }
 
 .investor-details h5{
