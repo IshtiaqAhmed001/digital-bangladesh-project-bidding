@@ -3,7 +3,7 @@
         "name": "Bill gates",
         "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987",
         "age": 65,
-        "networth": 3000,
+        "networth": 124,
         "country": "USA",
         "company": "Microsoft"
     },
@@ -11,7 +11,7 @@
         "name": "Jeff bezos",
         "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142",
         "age": 57,
-        "networth": 5000,
+        "networth": 177,
         "country": "USA",
         "company": "Amazon"
     },
@@ -19,7 +19,7 @@
         "name": "Mark Zuckerberg",
         "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401",
         "age": 36,
-        "networth": 2500,
+        "networth": 97,
         "country": "USA",
         "company": "Facebook"
     },
@@ -27,7 +27,7 @@
         "name": "Warren Buffet",
         "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5babb7f1a7ea4342a948b79a%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D748%26cropX2%3D3075%26cropY1%3D1753%26cropY2%3D4082",
         "age": 90,
-        "networth": 2000,
+        "networth": 96,
         "country": "USA",
         "company": "Berkshire hathaway"
     },
@@ -35,7 +35,7 @@
         "name": "Elon Musk",
         "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704",
         "age": 49,
-        "networth": 4000,
+        "networth": 151,
         "country": "USA",
         "company": "Tesla,Spacex"
     },
@@ -43,8 +43,32 @@
         "name": "Larry Page",
         "img": "https://thumbor.forbes.com/thumbor/190x190/smart/filters:format(jpeg)/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817",
         "age": 48,
-        "networth": 1500,
+        "networth": 91.5,
         "country": "USA",
         "company": "Google"
+    },
+    {
+        "name": " Salman F. Rahman",
+        "img": "data:image/jpeg;base64,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",
+        "age": 70,
+        "networth": 80,
+        "country": "Bangladesh",
+        "company": "BEXIMCO "
+    },
+    {
+        "name": "Ahmed Akbar Sobhan",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ahmed_Akbar_Sobhan_3.jpg/220px-Ahmed_Akbar_Sobhan_3.jpg",
+        "age": 69,
+        "networth": 91.5,
+        "country": "Bangladesh",
+        "company": "Bashundhara Group"
+    },
+    {
+        "name": "Mukesh Ambani",
+        "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBURFRUSEhIYGBgYEhEYEREYEhIYEhkYGBgZGRgYGBgcIS4lHB4rIRgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISGjQhISExNDQxNDE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ2NDE0NDQ0NDQxP//AABEIAOEA4QMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAADAAIEBQYBBwj/xABDEAACAQIDBAYGCAMGBwAAAAABAgADEQQhMQUSQVEGImFxgZETMkKhscEHFFJicoLR8KLh8SMzc5KTshUWNENTo8L/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAjEQEBAAICAgICAwEAAAAAAAAAAQIRAyESMQRBIlEjMnEU/9oADAMBAAIRAxEAPwDAgRwE6BHATpYEBHARAQgEA4Fj1WJVhVWAcCwirOqsIqQBqpCBI5UhFSAMVY60Dj8alBbvmT6qC1z29g7Zl8btF6upsvBRp485NykVMdtHiNpUqer7x+yvWP6SvfpBn1KeX3mz8hKJRC017JFyq5jF2m3zxpeT/wApIpbdpn1kZe3Ij9fdKdMPfNfKOOGJzA0zIyvlx+PlF50eMafDYpKmSOCeWh8jJO5MimHIII53B7eyaLAbQBULUYBtATlf+c0xy2jLHSXuRpSSQo4ThSaJRSkYUkpkg2SMkVkjGWSisGywCKyxhWSWSCZIAArBkSQVgysCBtFC7sUAhAQgEasIBIUQEIqziiFUQBKsIqxKsKiwBKkKqxIsMiwDipIu08etBebkHcTh3nskyq4pqXY2CgkmYraGKNZy7ZcFW+i8B++N5OV0rGbCxFV3Yu7XJOfZ2d0aov8ApGrDIAezzEwtax1FvwkqlQOVsxyMJhqIbhfzJ90ucLhL6W/MADceVpNqpNouHw+V8udtJKp4Qtqt+DC2du/s/TlLKhs4mwtyyHx75f4DZiqNO6ZZcum+HDayNPZxt6uXL995jcVswlW7OYz/AKzeNhVAyEC+FBuLTOc9a/8APHnuzMU9Jt0kkcj8ppcNVFRd5fEcQeIMh7c2TuHeUcciNe6VeGxTUiHsd1rb4By7xfTu8J3cXJMo4OXi8a0ZSDZIWi29Y3vfjl8I90nSwQ2SCZZLZIN0gSIywTCSmWDZYDaKVgyskssEwgYW7OQlooEgKIRRGqI9RIUcohVEaohVEAcohVWcRYdFgHUWFVZxBCkhQWbIAEk9ggGd6VYqwSkOPXfuBIUeYJ8JnDnDY7FGtUeofabIclGSjyAk3CYTS+c588m+GP0h0sKxzAljhtmMf6XlthaAta0t8HRHKc2XJXVjxRXYLYhPsjvtaX2D2Pu6nwk/BJfIS2o4a8yueV6b48eMAw2FVbWHuk30YhadG0ItPhI8avc+kQ0rwFSj+7y3WgM7+Ei1EtC4n5KTFUA4KnlMPtPDMhenbUHK3L36cf2PRMQusy23KeasNd7I9s24cvHLTn58ZlNq3o9ii6bh9ZMiONuH6S8IvMdhsQKeJDDIFrEfKbRBl4n9Z6WF3Hl5zVAZYJ1ktlgWWaJRGWBdZLZYF1gSKwgmEkssC4gYNoo/dnYGrFEIgjFhUkGIohkEGohkEAIghkEYoh1EAeiyl6V4zcRaanN7lvwjh4n4S9QTFdJ33q5HJVHdqfnJyvSsZ2rsMBe5lzg3ufDxlLS1ltgcz4zmz9OjD2vsPqJdYdNLcpT0LCWGHrHhOWuzGtBgMpd0agtM9s+pfWXVE30Mhp1Ym34zpqWjEQmMK55yu09HtiCeEC9WMxWMSmu8xAAvmZncV0iQg7rEnO1hl4w8cqVzxi5rtl5zObaS637RG09uMSBUSwJtfj5SRtDrU3I+zceEclxymxbMsbp5xiXs5I53B7p6Hs2qHpo49pQT3nWYVqfXyy5cuyavoqjeja5uN9gvDgCfDOelxV5nJFsywLrJbLAss2YIjrI7rJjpAMsAhuIJhJTLAusDR7RQtooGqFhkEYohFkGKghkEYghUEAKgkhBBIIdBACoJjel2FKVRU9lwPBlABHlb3zarIe29n+npFV9YFWTvGVvEEycpuKxuq88pCXWy8wZXVcMyajvyljshcjOXK9OnCdrDEYvcX5TmG2xu6reDq09/qxiMlMZjPhM5ppbf2t16RkeqoHnaTsH0gckHK3EdnZKWliustOpTUAlDcoXqWYjNVUG5468PCWjYL0QUtSUhlUtuEkoSASpZeI5EDvismvR43LftrtmbZ3msTygdt1qinqHK+R4TJ7LrXr7lzYHK+tjpN5jqd6d+wTK3VbyeUYfG4OpVzqVCEvxYm57FGsNgPqtMHrqXBAYuyixIJAsL7uhOeeR5SXisFaxbrKPZYnMdoHDTjI2y9kKjiojE7puqF/7MWL26ts7b7EdrHmZpMpZ3UXCy9RIdkchRbOxFiCpHMMNZMFOysvYR5iR6exlV2qAm7MSQvVS97k2GVzeTa2Uzt/TSYsLiaWTgDMmwA4EkCw8Zstk4X0VGmnEIC3axzJ8zIOy8CHquXFwrbyjhfeA92sv2WehwXbzeeaqO6wLCSnECyzpc6K4gHEkuIBxAIriAcSS0C4gAbRR1ooGp1hEjFEIsgx1EMggVkhYAZIdIFYenADKJIQQKw6wCi2vgPSM4Az3d4HmLZiUGzxYeU1O2H3G/FTIv3E/rKHcnDn1lY7se8ZRKFPfa0c+z7EXH4SffG4RutNHgK4eysAZnbY1xxlB2bhWFjYHvckeUunYohYkDLJRpJeH2ehsQoHdAbVVKdMs2Q4LzPCZ22t5jJGTwAtWDnUtn4meh080nnlF2DB7cQcp6Hsw79PetwvCzsseoC2DR9cjwgVwhQ5AEc7CFqkjMG0am0dxxTrLr6lT2W/nE0qRTwptdj4Sr2ktgbTR/WEZcpntqDWFkR3faDRHfc2F+z+oEnqbjPx+ciYQ2YdXeW3WtqBzA452k9gLmwyJyE7PieW7104fl+Op33AWEC4h2gmE7nCjOJHcSY4kZxAIrrAOJKcQDiIA7sUdaKBqNIVIJYVJIGWHpwCw6wMdYenALDoYBIWHWR0MkLAIO2EuEy+0PhlKNqW6bHlNY9NXG6wuJUbYwioEZeZVsyTpca9x85zc3Hd3J1cXJNTG+1MvVJlpsqp1hK2qud4bBuQwnNl6dOPVegYasFW/ZMztzENWN75Z7q9nOTqtcin+IgeevuBlFicUu9YkZSMY1yy0rfSuuXlNnsTb5CBSpuARpln2ygo1qNxvEHT93MvMLiaBsL2tra0qpx2s0Qsd5jnwGdh4QmMpLVQ0304HiDwZTwInaaVKlhRosRewduqul9T2So2risTSqJSNJQzjeNmJ3VuR1vIxeNO5z1s7Z+MdGejUN2TRvtKfVb98jJddt+RkoXqhzr6MAnxJEn+jmeXTTHdnaJg1sxH3D8RJhEDRXrseSqPMk/KHael8afxx5Pyr/ACUJhBOIZoN50sEdxI7yU0A4gEVxAuskuIFxEYFp2dtFEGeWFSCWFWIDLDrI6wyxhISGQwCmFQw0KkoYdDIqGGQw0ElDA7Up79JxxC7w7163yPnHq0z/AEv2qKdM0FPXqLZ/uodfE6d14spLNKxuqjI14WilnHfKvAYrfUE66N3yyR+M87LHV09HDKWNfSoColuIIYeGXwJ8pmcXs4UXZyiuGBBVs7EH1lPAy82dirLe/AR2PpBxa2ufjM8ctVtljLDOjmLwylFeioszHe3Q1wykMDxImvw2JwyIm7TzR7palcjM+1bkec83Sk1NtDrrNFh9pXUD0baW0mm0TDG+2wxm2W3S1NOWbHs5D9ZnKAao71Khuxyv2dkWHxDuNzcKi+d7Xk9Kdh8ZOWW1Y44z1FevVJMKXyvB4ywMqtsY16dGpURSxSnvWAyAuF3m+6CwvM/G5Zai7lMMd01Ok2GR3p1KjKwcgn0bFMrDIrf93llhto0q393VRz9lXUt4rrPHy5vcm5JuTxN9TCK09fDGY4zGfTxs75ZXL9vY2g2nlv8AxGtu7np6gUaAVHFvfAfW6w0r1P8AVqfrLTp6m0A5nnK7UxC6Yip/qMfiYVOkGJX/ALpP4lQ/KIN00E0zGH6VuMqlNW+8pKHyzHwnR0pYnOiLdlQ387ZxUaaKKUf/ADMn/jfzSKIaAWEWCWFWOAZIVYFYRTGQ6GGUyOphVMDSEaGVpENQKLkgAC5JOQEoNqdI8ilDxqEf7B8zC9DW15tLbVPD5Md5+FNT1vzH2R+7TCYzFNVd6jnrMSTyHIDsAygGckkk3JNySbk985eZ27VJpM2ZUIcJ9s2A+9w89PGXlGpY2My81Ozl+tJvJ/eplVTi/J17TbMcSDx1y5OPy7jfj5PHqrnAV8rSamPAyPAzO4Zypkqp1jvcZyeHbsmfTV0NxxnY6ZyZhqI/SZHB4spkTlLaltIDVvfIuNaY5RqaaJbIgfGOrVVVTnwmdTaV9CTG1cSW1PhDQ3D8VibnLwjdiuHxBpON5HplKqnQq4IYf5fjI143o613arzqG3cu6B8Jv8fHeX+Ofny/H/Xn21tnthq1Wg2tOo6E8902DeIsfGRkM230o4Lcxa1QMq1BHP40uje5UmKCT0J+3nnqY68baNvKI4wbCPBnDEDIrzpEZJN28U5FEbSrCLBrHKZSB1MeDAqYyvikQXdgOzVj3DWATVMDjNopR1N24INfHlKPGbXZskug5+2fLSVoz/ecD0mY7HvW9c2W/Vpj1e88zITiFVZ3cvHobRSuc5uyRVFt3viKSfE9o9pM2Xjmw9Rai35OOam1/HQjugSkaVi1o97emVdnDGIK+HsXKg1KY9sWydPvc149+tVSHDvuO7W44SF0L2qabigzWuS1I30OpXx1HjznouJ2bSx43mPo6/CqB1XsPbXj36/CZcvD5fli14ubx/HJi9ySaSA8pIx+xK+HNqtOwvlUBvTbub5Gx7JGWg40nFlNe3djZe4lKsIFPCNoU24i0knqiRa00gbSqejQgamH6I099FUcajLfldv0lVtRyxl70M3adIVHNh6RjftZhTT+Ir5GdPxvbl+T6O+lPCh6OGrAZI9Sl2kOu+p/9Z855luWnq30pG2Fw4GhxIPlTqD5zy0id+Pp5+XsMpBOsOYxxKsEAE7EROxGYY1oS0a0mnKFFFaKSbTAwFbHImV7n7I+Z0ErK+NZ8r7o5D5mRd7lKTpNxG0XbIHdHIHPzkJnJjYgItmcBCKs4ojwJUhWnATsQnDKI2otxGCpbJhbkeEJGMJNOH2gnE7STlpy4R7LD3AbTcggqbEEFSNQRoZ6n0Y2r9YpioMnXKovJh8jkR39k8qORl30b2kcNUDX6jgLVXs4N3i/kTCC9vccHXZ6YuciDcGxB4WN+GsjPsmk4JKLfjudRvdkfKP2U/8AZJy9Gud+efzhGUg5XmeWEy9xWOeWPcrPbS2d6GxBujeq1s+5u34yjxNWbvE0DUpvTItcXRjewYaHLPs8TMRtjZ1TDsN8Aq3qutyt/sm4FjOHm4bjluTp6PDzTLHWV7U1ZL8JtNi7G3MOqN6wqUGfjY7zMR7wPCQujWy/SlqxHVTTLV+Hlr5TcbLwnUO+PXPjbh8zNuDHxm65/kZbup9MF9Ir+kwqEC3osbuOPutTfdbx6viZ5vPUNv4RqtHFj1t+mlRex6Tb4A/yuv5hPL53Yzpx0Nu74xhF8oUwcZAGcEIy5xtpJxy0a4hAI1xCwwbRR1opOjBN44CcpNeP3bZeXdFJsVyOQTgjllaLZ86I28cIw7OxsV4E6YFmubcOMLBVk9oeI5iKnBkjyIGm94dZU7hUF1vOUm3TaGYQTC8WjewfRrtb09E4diN+kqgA+1T0U/l9X/Lzm4TDAT576PbWfCVkrJe6N1lHtofXTxHvseE+gtn4oVUSojBkdFZGHFSLiRnL7PFJWmulpB2lhEcGmwDKwsynj/Ptk533ReQcO+9UW/M/AzPX2raXs/ArSRUAAAGgFhJJjqb3jWEnfamaeiEZlIy3jl2GeL7TwnoK1Wj9io6j8N7p/CQZ7ptqjcBx3GeS9OcLuYhanCpTz/EmR/hKTpwu4xy6ZpoOFaMtLSE4+EZaGYZdxjCIqZKI1xHrOOIAGKP3YotGr6bSWBcd2n6SEhkyi0yxqsnJ1TFUWx94jQZoR946MvHAwB05FOGAOE7GCOEAARuG/sn3SUhjGAIseMHSbdO6dPZMJ1R7SjBsIRZxhKSGuU9O+i/pDa+DqNrvPh7nvZ0HvYfmnmREkYHEtSdKlNt1kZWRuTA3H9JNm5o9vpHcL6yLTo7lVeROXvHzg+jO10xmHSsuRIs6fYcesvzHYRJ+KW263JphvvS9faZuxrQgjHEiVaNiKYcEHQ6zzP6Qdnn0O9bOlUVvyt1G+KnwnqMo+k+zRXpOtvWpurdxFr+Gs1wy1dIyx3HgxjDH2IyIsQSGHIjUecaZ0MzYwiEE4RAGqI1hHxpgDbRTtp2IbVKCGpnOCWPWYRrkktmL8vhxgeHjCoYLS4mlRHQY8GABhUMWNFFERnFnTKBTgnYoA68Y6b3yMdEIE7Re+R1Gv6w0jVV0Yaj3jlDU6gIvHL9Cz7dIjRHmcIhSbP6Ntv8A1XEeiqNanWKo1zkr+w3j6p7xyntFRd5SPLvnzKptPdegO3/rmGXfa9SnZKvM2HUf8w94aZ54/a8b9NXh2uqnsjmg6GRI55j5jzhjOe+2sAOsTLfIzpGc7KJ4D0wwH1bGYimBkX9In4X63x3vKUpnof0uYDdqUMQB6ytTc9o6y/8A1PO5143c2ws1XDFEY0/KMOEzjRWiMRB+HxinIoBXrCLOxTCNqKvzjKnrHuEUU0vpAQhUiik4nRBOmdilkUUUUAUcsUUIDoHC+1+IxRQ+4X0kxRRSqThnov0Rf32I/wAOl/ueKKRn/Wqnt60vrDuPyhjOxTlrWBNrORRSgwf0tf8ATU/8ZPhPIjFFOnj/AKscvZpnG+UUUsjF49860UUQCiiigT//2Q==",
+        "age": 69,
+        "networth": 74,
+        "country": "India",
+        "company": "Jio, Reliance"
     }
 ]

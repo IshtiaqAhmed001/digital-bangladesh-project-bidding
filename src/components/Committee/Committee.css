@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-column-gap: 20px;
+    
 }
 .investors{
     display: grid;
@@ -9,6 +10,9 @@
     grid-row-gap: 20px;
     grid-column-gap: 20px;
 }
+.investor-container{
+    margin-left: 20px;
+}
 .selected-investors{
-    border: 2px solid gray;
+    
 }
