@@ -1,11 +1,11 @@
 import React from 'react';
+import Info from '../Info/Info';
 import './Fund.css';
 
 const Fund = (props) => {
     console.log(props);
     const { fund } = props;
     let total = 0;
-    let name = fund.name;
     for (const investor of fund) {
         total = total + investor.networth;
     }
@@ -15,7 +15,12 @@ const Fund = (props) => {
             <h4>Investors Selected: {props.fund.length}</h4>
             <br />
             <h5>Fund Gathered: ${total} </h5>
-            <h6>Investor Name: {name}</h6>
+            <div>
+                {
+                    fund.map(singleInvestor => <Info key={singleInvestor.company}
+                        info={singleInvestor.name}></Info>)
+                }
+            </div>
         </div>
     );
 };
