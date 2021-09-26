@@ -5,6 +5,8 @@ import './Committee.css'
 const Committee = () => {
     const [investors, setInvestors] = useState([]);
     const [fund, setFund] = useState([]);
+    const [investorName, setInvestorName] = useState('');
+
 
 
     useEffect(() => {
@@ -16,6 +18,7 @@ const Committee = () => {
     const handleSelectedInvestors = (investor) => {
         const newFund = [...fund, investor];
         setFund(newFund);
+        setInvestorName(investor.name)
     }
     return (
 

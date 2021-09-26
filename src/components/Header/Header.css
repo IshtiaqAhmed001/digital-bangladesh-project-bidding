@@ -1,10 +1,9 @@
 .header-container{
+    background:url('https://images.all-free-download.com/images/graphiclarge/bangladesh_flag_6845507.jpg');
+    background-repeat: no-repeat;
+    background-position: left;
     text-align: center;
-    background-color: #088a4daa;
-    /* background: url('https://lh3.googleusercontent.com/proxy/jG9PlsvRGqG-2xnVSiaDndaIs0Sen245GFpwiQ9g5NBi33Glf4Ya31is9AqHpG2a3nPj-oHbFl9_yP8kLTUC__E0rbtRCpCwPq_TsZsmkm-KoOO62rOvMDPokasj3GVgb_Y3WE4rRfJoZkHGULGyzmZiNnyv7NymkZWET8jCrqrZeBA-4fJhlGXSWIAguX8nsrmJ3W_AQeyzXs-ASqBa6w');
-   background-size: cover;
-   background-position: center; */
-    width: 1200px;
+    /* background-color: #088a4daa; */
     margin: auto;
     border-bottom-right-radius: 20px;
     border-bottom-left-radius: 20px;

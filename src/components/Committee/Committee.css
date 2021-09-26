@@ -14,5 +14,8 @@
     margin-left: 20px;
 }
 .selected-investors{
-    
+    background-color:rgb(196, 238, 196);
+    padding: 10px;
+    border-radius: 10px;
+    height: 150px;
 }

@@ -1,15 +1,20 @@
 .investor{
-    background-color: rgb(181, 226, 247);
+    background-color: #79ce799e;
+
     border-radius: 10px;
     padding: 10px;
 }
 .investor-img{
     width: 150px;
+    height: 150px;
     border-radius: 50%;
 }
 .add-investor-btn{
     padding: 10px;
     border-radius: 10px;
+    background-color: rgb(216, 239, 248);
+    border: none;
+    padding: 10px 20px;
    
 }
 
